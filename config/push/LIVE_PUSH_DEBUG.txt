@@ -1,0 +1,7 @@
+
+
+ Log at 2016-09-09 05:35:19 ---------------- 
+ ids : Array
+ post : {"registration_ids":["APA91bEMkzd7RWQ2XBJPj3aK28eGeKX6RXimd-713MOtgNxC0hXBXTNZM__TOQvbzPhGupQF1FcEwNgvobE2LYbi33fKj73FI9DvdTL_vzoh-G-O41dmBxtxpovfQDCc70b8EI7-EJae"],"data":{"message":"Testing"}}
+
+ result : {"multicast_id":5484091567566200402,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
